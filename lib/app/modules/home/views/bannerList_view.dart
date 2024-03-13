@@ -88,6 +88,7 @@ class _BannerListViewState extends State<BannerListView> {
                                   fontColor: Colors.black54,
                                   fontSize: textSize14Px,
                                   fontWeight: FontWeight.bold,
+                                  overflow: TextOverflow.ellipsis,
                                 ),
                               ),
                               CommonText(
